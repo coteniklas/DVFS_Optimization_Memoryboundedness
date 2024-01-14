@@ -1,2 +1,3 @@
-# DVFS_Optimization_Memoryboundedness
-[Master_Thesis_Memory_boundedness.pdf](https://github.com/coteniklas/DVFS_Optimization_Memoryboundedness/files/13932420/Master_Thesis_Memory_boundedness.pdf)
+![Start Page](Master_thesis.PNG)
+![Master_Thesis_Memory_boundedness](Master_Thesis_Memory_boundedness.pdf)
+
